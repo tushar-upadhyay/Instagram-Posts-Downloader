@@ -1,4 +1,4 @@
-# Instagram-reels-downloader
+# Instagram-Posts-downloader
 React based app to scrap Instagram posts including reels and igtv and get direct downloadable links.
 
 ### Demo
